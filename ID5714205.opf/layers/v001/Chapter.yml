@@ -1,0 +1,15 @@
+id: 069066a5517e484cbd38675c2fbabbe6
+annotation_type: Chapter
+revision: '00001'
+annotations:
+  8b1967a8a1404021a9746f352d6e733d:
+    span:
+      start: 5
+      end: 88
+  95a014ad7e30493da0d3ff36e1b79335:
+    span:
+      start: 179
+      end: 267
+local_ids:
+  8b1967a8a1404021a9746f352d6e733d: 200000
+  95a014ad7e30493da0d3ff36e1b79335: 200001
